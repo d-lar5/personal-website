@@ -70,7 +70,7 @@ header {
   position: relative;
   display: inline-block;
   padding: 40px 0;
-  transform: translateY(40px);
+  transform: translateY(80px);
 }
 
 .navigation-menu a::before {
